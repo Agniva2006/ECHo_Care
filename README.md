@@ -1,11 +1,11 @@
 🧠 README.md — EchoCare: Emotional Wellness Voice Companion
-<div align="center">
+<div align="center"><h1>
 🎧 EchoCare
 A Voice-Based Emotional Wellness & Mental-Health Support Agent
 
 Built with Llama 3.1 (8B) + Faster-Whisper + Murf Falcon TTS
 Fully offline LLM + real-time voice + crisis-safe logic.
-
+</h1>
 </div>
 🌟 Overview
 
