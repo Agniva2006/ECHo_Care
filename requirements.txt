@@ -1,0 +1,13 @@
+streamlit
+sounddevice
+scipy
+whisper
+python-dotenv
+requests
+soundfile
+numpy
+faster-whisper
+transformers
+torch
+huggingface-hub
+sentence-transformers
