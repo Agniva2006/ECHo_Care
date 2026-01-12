@@ -4,7 +4,9 @@ AI-Powered Mental Health Voice Assistant (Llama 3.1 + Faster-Whisper + Murf TTS)
 
 </h1>
 https://github.com/Agniva2006/ECHo_Care/blob/8d3c5c3c38efa7c21ae10acf3e6392dc7265ed1e/WhatsApp%20Video%202025-12-05%20at%2021.14.06_810f8248.mp4    is our video demo                
+<img width="1269" height="979" alt="image" src="https://github.com/user-attachments/assets/9d6e44ed-bb81-4fbc-a70e-b3606ef6a82a" />
 
+<img width="1269" height="979" alt="image" src="https://github.com/user-attachments/assets/a17bc954-10e7-4710-8dc4-3da498a8c3bf" />
 
 🌟 Overview
 
