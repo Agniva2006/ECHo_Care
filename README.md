@@ -3,7 +3,6 @@
 AI-Powered Mental Health Voice Assistant (Llama 3.1 + Faster-Whisper + Murf TTS)
 
 </h1>
-"D:\Games\FIFA 17\WhatsApp Video 2025-12-05 at 21.14.06_810f8248.mp4"
 🌟 Overview
 
 EchoCare is a voice-based emotional wellness assistant designed to provide:
